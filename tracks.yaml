@@ -18,7 +18,7 @@ tracks:
     last_version: 0.0.7
     name: upstream
     patches: null
-    release_inc: '3'
+    release_inc: '4'
     release_repo_url: https://github.com/OUXT-Polaris/ouxt_common-release.git
     release_tag: :{version}
     ros_distro: foxy
