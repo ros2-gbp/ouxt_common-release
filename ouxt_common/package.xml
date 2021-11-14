@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ouxt_common</name>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
   <description>common settings for OUXT Polaris ROS2 packages</description>
   <maintainer email="ms.kataoka@gmail.com">Masaya Kataoka</maintainer>
   <license>Apache 2.0</license>
