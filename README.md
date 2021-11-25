@@ -1,3 +1,28 @@
+## ouxt_common (foxy) - 0.0.8-2
+
+The packages in the `ouxt_common` repository were released into the `foxy` distro by running `/usr/local/bin/bloom-release --track galactic --ros-distro foxy ouxt_common` on `Thu, 25 Nov 2021 06:25:44 -0000`
+
+These packages were released:
+- `ouxt_common`
+- `ouxt_lint_common`
+
+Version of package(s) in repository `ouxt_common`:
+
+- upstream repository: https://github.com/OUXT-Polaris/ouxt_common.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.8-1`
+- new version: `0.0.8-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ouxt_common (galactic) - 0.0.8-1
 
 The packages in the `ouxt_common` repository were released into the `galactic` distro by running `/usr/local/bin/bloom-release --track galactic --ros-distro galactic ouxt_common` on `Thu, 25 Nov 2021 06:23:01 -0000`
