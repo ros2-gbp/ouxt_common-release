@@ -10,6 +10,9 @@ Changelog for package ouxt_common
   * 0.0.5
 * Contributors: Masaya Kataoka, wam-v-tan
 
+0.0.8 (2021-11-25)
+------------------
+
 0.0.7 (2021-11-14)
 ------------------
 * [Bot] Release 0.0.6 (`#39 <https://github.com/OUXT-Polaris/ouxt_common/issues/39>`_)
