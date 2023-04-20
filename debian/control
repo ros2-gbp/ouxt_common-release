@@ -1,0 +1,12 @@
+Source: ros-iron-ouxt-lint-common
+Section: misc
+Priority: optional
+Maintainer: Masaya Kataoka <ms.kataoka@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-ouxt-lint-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-ament-cmake-clang-format, ros-iron-ament-cmake-copyright, ros-iron-ament-cmake-pep257, ros-iron-ament-cmake-xmllint, ros-iron-ros-workspace
+Description: common linter settings for OUXT Polaris ROS2 packages
