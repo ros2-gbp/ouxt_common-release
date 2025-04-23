@@ -1,0 +1,65 @@
+ros-kilted-ouxt-lint-common (0.0.8-5bookworm) bookworm; urgency=high
+
+
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Thu, 25 Nov 2021 06:00:00 -0000
+
+ros-kilted-ouxt-lint-common (0.0.7-5bookworm) bookworm; urgency=high
+
+  * [Bot] Release 0.0.6 (#39 <https://github.com/OUXT-Polaris/ouxt_common/issues/39>)
+    * release version 0.0.6
+    * 0.0.6
+  * Merge branch 'master' of https://github.com/OUXT-Polaris/ouxt_common
+  * [Bot] Release 0.0.5 (#38 <https://github.com/OUXT-Polaris/ouxt_common/issues/38>)
+    * release version 0.0.5
+    * 0.0.5
+  * Contributors: Masaya Kataoka, wam-v-tan
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Sun, 14 Nov 2021 06:00:00 -0000
+
+ros-kilted-ouxt-lint-common (0.0.6-5bookworm) bookworm; urgency=high
+
+  * Merge branch 'master' of https://github.com/OUXT-Polaris/ouxt_common
+  * [Bot] Release 0.0.5 (#38 <https://github.com/OUXT-Polaris/ouxt_common/issues/38>)
+    * release version 0.0.5
+    * 0.0.5
+  * Contributors: Masaya Kataoka, wam-v-tan
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Sat, 11 Sep 2021 05:00:00 -0000
+
+ros-kilted-ouxt-lint-common (0.0.5-5bookworm) bookworm; urgency=high
+
+  * Merge pull request #37 <https://github.com/OUXT-Polaris/ouxt_common/issues/37> from OUXT-Polaris/release/0.0.4
+    [Bot] Release 0.0.4
+  * 0.0.4
+  * release version 0.0.4
+  * Contributors: Masaya Kataoka, wam-v-tan
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Sat, 11 Sep 2021 05:00:00 -0000
+
+ros-kilted-ouxt-lint-common (0.0.4-5bookworm) bookworm; urgency=high
+
+  * Merge pull request #15 <https://github.com/OUXT-Polaris/ouxt_common/issues/15> from OUXT-Polaris/fix/description
+    update package.xml
+  * update package.xml
+  * Contributors: Masaya Kataoka
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Sat, 11 Sep 2021 05:00:00 -0000
+
+ros-kilted-ouxt-lint-common (0.0.3-5bookworm) bookworm; urgency=high
+
+  * update changelog
+  * remove CHANGELOG
+  * 0.0.2
+  * add CHANGELOG.rst
+  * Merge pull request #3 <https://github.com/OUXT-Polaris/ouxt_common/issues/3> from OUXT-Polaris/feature/remove_lint_cmake
+    remove ament_lint_cmake
+  * remove ament_lint_cmake
+  * Merge pull request #2 <https://github.com/OUXT-Polaris/ouxt_common/issues/2> from OUXT-Polaris/feature/ouxt_lint_common
+    add ouxt_lint_common package
+  * add ouxt_lint_common package
+  * Contributors: Masaya Kataoka
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Sat, 11 Sep 2021 05:00:00 -0000
+
+
