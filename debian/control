@@ -1,0 +1,12 @@
+Source: ros-lyrical-ouxt-lint-common
+Section: misc
+Priority: optional
+Maintainer: Masaya Kataoka <ms.kataoka@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/ouxt_lint_common/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-ouxt-lint-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-ament-cmake-clang-format, ros-lyrical-ament-cmake-copyright, ros-lyrical-ament-cmake-pep257, ros-lyrical-ament-cmake-xmllint, ros-lyrical-ros-workspace
+Description: common linter settings for OUXT Polaris ROS2 packages
